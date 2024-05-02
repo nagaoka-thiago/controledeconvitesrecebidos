@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Received Invitations</string>
+    <string name="titulo_convite">Invitation\'s Title</string>
+    <string name="tirar_foto">Take a Picture</string>
+    <string name="local_convite">Site</string>
+    <string name="data">Date</string>
+    <string name="preco">Price</string>
+    <string name="homens">Men</string>
+    <string name="mulheres">Women</string>
+    <string name="ambos">Both</string>
+    <string name="bebida_liberada">Alcohol allowed</string>
+    <string name="estado">State</string>
+    <string name="limpar">Clear</string>
+    <string name="salvar">Save</string>
+    <string name="precisa_foto">Needs to take a picture!</string>
+    <string name="precisa_titulo">Needs to type a title!</string>
+    <string name="precisa_data">Needs to type a date!</string>
+    <string name="precisa_local">Needs to type a site!</string>
+    <string name="precisa_preco">Needs to type a price!</string>
+    <string name="precisa_selecionar_homens_mulheres">Needs to choose only men, women or both!</string>
+    <string name="precisa_selecionar_estado">Needs to choose which state the event will occur!</string>
+    <string name="convite_validado">Invitation validated successfully!</string>
+    <string name="data_text">Date:</string>
+    <string name="local_text">Site:</string>
+    <string name="o_convite">\"The invitation \"\"</string>
+    <string name="marcado_para_o_dia">\"\" was planned to occur on the date \"</string>
+    <string name="foi_clicado">\" was clicked.\"</string>
+    <string name="thiago_nagaoka" translatable="false">Thiago Nagaoka</string>
+    <string name="especializacao_tec_java" translatable="false">Especialização EAD em Tecnologia Java</string>
+    <string name="email" translatable="false">nagaoka.thiago@bol.com.br</string>
+    <string name="descricao">The app helps to control  the received invitations to parties. In the register page we should type the Invitation\'s data, such as title, site, etc. Also, we can view all the invitations.</string>
+    <string name="utfpr" translatable="false">Universidade Tecnológica Federal do Paraná</string>
+    <string name="adicionar">Add</string>
+    <string name="sobre">About</string>
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="ordenacao_titulo">Sorting by Title</string>
+    <string name="ordenacao_local">Sorting by Site</string>
+    <string name="ordenacao_preco">Sorting by Price</string>
+    <string name="aviso">Warning</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="confirmar_deletar_convite">Are you sure you want to delete the invitation %1$s?</string>
+</resources>

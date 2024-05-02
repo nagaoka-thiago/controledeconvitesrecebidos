@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convites Recebidos</string>
+    <string name="titulo_convite">Título do Convite</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="local_convite">Local</string>
+    <string name="data">Data</string>
+    <string name="preco">Preço</string>
+    <string name="homens">Homens</string>
+    <string name="mulheres">Mulheres</string>
+    <string name="ambos">Ambos</string>
+    <string name="bebida_liberada">Bebida Liberada</string>
+    <string name="estado">Estado</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="precisa_foto">Precisa tirar uma foto!</string>
+    <string name="precisa_titulo">Precisa digitar um título!</string>
+    <string name="precisa_data">Precisa digitar uma data!</string>
+    <string name="precisa_local">Precisa digitar um local!</string>
+    <string name="precisa_preco">Precisa digitar um preço!</string>
+    <string name="precisa_selecionar_homens_mulheres">Precisa selecionar se é somente homens, mulheres ou ambos!</string>
+    <string name="precisa_selecionar_estado">Precisa selecionar qual estado é o evento!</string>
+    <string name="convite_validado">Convite validado com sucesso!</string>
+    <string name="data_text">Data:</string>
+    <string name="local_text">Local:</string>
+    <string name="o_convite">\"O convite \"\"</string>
+    <string name="marcado_para_o_dia">\"\" marcado para o dia \"</string>
+    <string name="foi_clicado">\" foi clicado.\"</string>
+    <string name="descricao">O aplicativo auxilia no controle de convites recebidos para festas. No cadastro do convite deve-se entrar com as informações do convite, como o título, etc. Também pode-se visualizar todos os convites.</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="ordenacao_titulo">Ordenação Título</string>
+    <string name="ordenacao_local">Ordenação Local</string>
+    <string name="ordenacao_preco">Ordenação Preço</string>
+    <string name="aviso">Aviso</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="confirmar_deletar_convite">Você tem certeza que quer deletar o convite %1$s?</string>
+</resources>

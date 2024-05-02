@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miAdicionar"
+        android:title="@string/adicionar"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/miSobre"
+        android:title="@string/sobre"/>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/miTitulo"
+            android:title="@string/ordenacao_titulo" />
+        <item
+            android:id="@+id/miLocal"
+            android:title="@string/ordenacao_local" />
+        <item
+            android:id="@+id/miPreco"
+            android:title="@string/ordenacao_preco" />
+    </group>
+</menu>

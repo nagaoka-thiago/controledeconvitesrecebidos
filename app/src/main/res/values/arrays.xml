@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_estados">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+    <string-array name="lista_drawables">
+        <item>@drawable/festa_1</item>
+        <item>@drawable/festa_2</item>
+        <item>@drawable/festa_3</item>
+        <item>@drawable/festa_4</item>
+        <item>@drawable/festa_5</item>
+        <item>@drawable/festa_6</item>
+        <item>@drawable/festa_7</item>
+        <item>@drawable/festa_8</item>
+        <item>@drawable/festa_9</item>
+        <item>@drawable/festa_10</item>
+    </string-array>
+    <string-array name="lista_titulos">
+        <item>Festa de aniversário</item>
+        <item>Festa da empresa</item>
+        <item>Festa de despedida</item>
+        <item>Festa da roça</item>
+        <item>Festa da quitanda</item>
+        <item>Festa de despedida</item>
+        <item>Festa do rock</item>
+        <item>Festa do disco dance</item>
+        <item>Festa do samba</item>
+        <item>Festa temática de terror</item>
+    </string-array>
+    <string-array name="lista_estado">
+        <item>Paraná</item>
+        <item>São Paulo</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rio Grande do Norte</item>
+        <item>Acre</item>
+        <item>Rio de Janeiro</item>
+        <item>Pernambuco</item>
+        <item>Ceará</item>
+    </string-array>
+    <string-array name="lista_locais">
+        <item>Rua Professor de Jesus, 118</item>
+        <item>Avenida Sete de Setembro, 67</item>
+        <item>Rua 24 de Maio, 112</item>
+        <item>Rua Saira Dourada, 220</item>
+        <item>Rua Gregório Kislek, 90</item>
+        <item>Rua Sinesio Simoes, 550</item>
+        <item>Rua Maria de Lourdes, 139</item>
+        <item>Rua Pastor Carlos, 994</item>
+        <item>Rua Izabel Lima, 321</item>
+        <item>Rua Luiz de Freitas, 995</item>
+    </string-array>
+    <string-array name="lista_datas">
+        <item>14/02/2023</item>
+        <item>25/03/2023</item>
+        <item>05/03/2023</item>
+        <item>08/05/2023</item>
+        <item>21/05/2023</item>
+        <item>20/05/2023</item>
+        <item>15/08/2023</item>
+        <item>18/10/2023</item>
+        <item>07/11/2023</item>
+        <item>02/12/2023</item>
+    </string-array>
+    <string-array name="lista_precos">
+        <item>50.00</item>
+        <item>60.00</item>
+        <item>70.00</item>
+        <item>75.00</item>
+        <item>35.00</item>
+        <item>30.00</item>
+        <item>80.00</item>
+        <item>77.00</item>
+        <item>90.00</item>
+        <item>100.00</item>
+    </string-array>
+    <integer-array name="lista_homem_mulher">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="lista_bebida_liberada">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+</resources>
